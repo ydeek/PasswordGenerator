@@ -22,7 +22,7 @@ function generatePassword() {
   var arrayofUppercase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
   var arrayofLowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
   var arrayofNumbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
-  var arrayofsepecialcharcters = ["!", "#", "$", "%", "&", "'", "()", "*", "+", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "\\", "]", "^", "_", "`", "{", "|", "}", "~", "\""];
+  var arrayofspecialcharacters = ["!", "#", "$", "%", "&", "'", "()", "*", "+", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "\\", "]", "^", "_", "`", "{", "|", "}", "~", "\""];
   
   var passLength = parseInt(prompt("How long would you like your pass word to be? The password has to be equal or greater than 8 and equal or less than 128 characters."));
   var randomPassword = "";
@@ -36,7 +36,7 @@ function generatePassword() {
     var isLowerCase = confirm ("do you want lower case?");
     var isUpperCase = confirm ("do you want upper case?");
     var isNumeric = confirm ("do you want to add numbers?");
-    var isSpecial = confirm ("do you want to add any special charchters?")
+    var isSpecial = confirm ("do you want to add any special characters?")
     
     
     //first figure out which of the 4 array types we are able to pick elements from
