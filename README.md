@@ -10,11 +10,11 @@ https://ydeek91.github.io/PasswordGenerator/
 
 
 <img src="Assets/pg1.png" alt="">
-<img src="Assests/pg2.png" alt="">
-<img src="Assests/pg3.png" alt="">
-<img src="Assests/pg4.png" alt="">
-<img src="Assests/pg5.png" alt="">
-<img src="Assests/pg6.png" alt="">
+<img src="Assets/pg2.png" alt="">
+<img src="Assets/pg3.png" alt="">
+<img src="Assets/pg4.png" alt="">
+<img src="Assets/pg5.png" alt="">
+<img src="Assets/pg6.png" alt="">
 <img src="Assets/pg7.png" alt="">
 <img src="Assets/pg8.png" alt="">
 
