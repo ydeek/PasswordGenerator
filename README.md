@@ -15,6 +15,8 @@ https://ydeek91.github.io/PasswordGenerator/
 <img src="Assests/pg4.png" alt="">
 <img src="Assests/pg5.png" alt="">
 <img src="Assests/pg6.png" alt="">
+<img src="Assets/pg7.png" alt="">
+<img src="Assets/pg8.png" alt="">
 
 
 
