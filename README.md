@@ -9,8 +9,12 @@ https://ydeek91.github.io/PasswordGenerator/
 
 
 
-
-
+<img src="Assets/pg1.png" alt="">
+<img src="Assests/pg2.png" alt="">
+<img src="Assests/pg3.png" alt="">
+<img src="Assests/pg4.png" alt="">
+<img src="Assests/pg5.png" alt="">
+<img src="Assests/pg6.png" alt="">
 
 
 
